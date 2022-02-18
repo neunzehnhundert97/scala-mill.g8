@@ -1,0 +1,15 @@
+* Scala Mill
+This is a Giter8 template for Scala3 which uses [[https://github.com/com-lihaoyi/mill][mill]] as its build tool.
+It includes
+- a build file
+- an empty source file
+- a scalafmt
+- a gitignore
+- [[https://github.com/Tarrasch/zsh-autoenv][zsh-autoenv]] scripts which create a alias to launch the main module
+
+* Template license
+Written in 2022 by Leon A. Becker
+
+To the extent possible under law, the author(s) have dedicated all copyright and related
+and neighboring rights to this template to the public domain worldwide.
+This template is distributed without any warranty. See <https://creativecommons.org/publicdomain/zero/1.0/>.
